@@ -1,4 +1,4 @@
-import sys
+2import sys
 import random
 
 print("")
